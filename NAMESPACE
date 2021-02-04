@@ -1,0 +1,16 @@
+useDynLib( bcv )
+
+export( cv.svd.gabriel, 
+        cv.svd.wold, 
+        impute.svd, 
+        plot.cvsvd, 
+        print.cvsvd,
+        summary.cvsvd
+      )
+
+S3method( plot, cvsvd )
+S3method( print, cvsvd )
+S3method( summary, cvsvd )
+
+importFrom("graphics", "lines", "plot", "points", "segments")
+importFrom("stats", "sd")
