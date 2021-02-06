@@ -30,3 +30,7 @@ vignettes/*.pdf
 .Rbuildignore
 # C
 src/*.o
+src/*.so
+# mac sysfiles
+*.DS_Store
+

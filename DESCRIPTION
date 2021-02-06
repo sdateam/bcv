@@ -15,4 +15,4 @@ Description:
 License: BSD_3_clause + file LICENSE
 Encoding: UTF-8
 NeedsCompilation: yes
-
+RoxygenNote: 7.1.0
