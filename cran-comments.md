@@ -7,4 +7,4 @@
 
 0 errors | 0 warnings | 1 note
 
-* This is a new release.
+* This is a new authorized release with new maintainer after the main author decided to archive the package.
