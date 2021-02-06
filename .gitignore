@@ -28,6 +28,7 @@ vignettes/*.pdf
 .Renviron
 .Rproj
 .Rbuildignore
+*.Rproj
 # C
 src/*.o
 src/*.so
