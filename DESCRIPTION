@@ -1,6 +1,6 @@
 Package: bcv
 Version: 1.0.1.2
-Date: 2015-05-20
+Date: 2021-02-06
 Title: Cross-Validation for the SVD (Bi-Cross-Validation)
 Author: Patrick O. Perry
 Maintainer: Seyed Morteza Najibi <mor.najibi@gmail.com>
