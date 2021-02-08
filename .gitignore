@@ -26,7 +26,6 @@ vignettes/*.pdf
 *.knit.md
 # R Environment Variables
 .Renviron
-.Rproj
 .Rbuildignore
 *.Rproj
 # C
