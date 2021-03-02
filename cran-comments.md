@@ -5,6 +5,6 @@
 
 ## R CMD check results
 
-0 errors | 0 warnings | 1 note
+0 errors | 0 warnings | 0 note
 
-* This is a new authorized release with new maintainer after the main author decided to archive the package.
+* Fix the issue of portability in making linux binary file. 
